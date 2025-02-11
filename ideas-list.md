@@ -18,11 +18,19 @@ Identity and Access Management:
 - Financial-Grade API (FAPI) SDK
 - Improve OAuth2/OIDC SDK with OAuth2 Rich Authorization Requests specification
 
-Healthcare and Language Processing:
+Healthcare:
 - OpenEHR Specification Library in Ballerina
+
+Programming Languages and Tools:
+- Linter support for Ballerina
 
 API Management and Analytics:
 - AI-Powered Analytics and Insights for WSO2 API Manager
+
+AI and Automation:
+- Autonomous AI Integration Engineer for WS2MI/Ballerina (Inspired by Devin)
+
+--- 
 
 ### 🚀 1. **OpenID Connect Client Initiated Backchannel Authentication (CIBA) SDK with Python** 
 
@@ -183,6 +191,66 @@ The scope of this project is
 - Basic knowledge of REST APIs
 - Familiarity with NLP and AI-driven data insights.
 - Experience with data visualization and dashboard development.
+
+---
+
+### 🚀 6. ** Linter support for Ballerina **  
+
+**📅 Project Duration:** Medium-term (~175 hours)  
+**🔥 Difficulty Level:** Medium
+**👨‍🏫 Mentors:** Tharik Kanaka (tharik@wso2.com), Gimantha Bandara (gimantha@wso2.com)
+
+**📍 Description:** 
+Ballerina already has a static code analysis tool inbuilt and integration support with tools SonarQube. This project aims to enhance these capabilities by introducing linter support and integrating it with existing tools like SonarLint for IDEs like VSCode.
+
+**🛠 Possible Technologies involved:** 
+- TypeScript
+- Java
+- Ballerina
+
+
+**📚 Learning Materials:**
+- Ballerina static code analysis tool: https://github.com/ballerina-platform/static-code-analysis-tool
+- Ballerina Sonar plugin: https://github.com/ballerina-platform/sonar-ballerina
+- SonarLint VSCode: https://github.com/SonarSource/sonarlint-vscode
+
+**💪 Expected skills and technologies for the project:**
+- Programming skills with Java and JavaScript/Typescript
+- Understanding on VSCode API, Language Server Protocol (LSP) would be added advantage
+
+---
+
+### 🚀 7. ** Autonomous AI Integration Engineer for WS2MI/Ballerina (Inspired by Devin) **  
+
+**📅 Project Duration:** Long (~175 hours)  
+**🔥 Difficulty Level:** Hard
+**👨‍🏫 Number of people:** 2 (One for Ballerina and One for MI)
+**👨‍🏫 Mentors:** Isuru Wijesiri (isuruwij@wso2.com)
+
+**📍 Description:** 
+This project aims to develop an open-source, autonomous AI Integration Engineer, drawing inspiration from Devin, the Autonomous AI Software Engineer.  This intelligent agent will automate key tasks within the WSO2 Micro Integrator (WS2MI) and Ballerina ecosystem, significantly streamlining integration development.  The agent will leverage the power of Large Language Models (LLMs) and related generative AI techniques to understand integration requirements, generate code, configure WS2MI/Ballerina, and deploy and test integrations iteratively until the given task is completed.
+
+**🛠 Possible Technologies involved:** 
+- Python
+- Generative Ai
+- Prompt Engineering / RAG / LLM Fine tuning
+- WSO2 MI and WSO2 Synapse
+- Ballerina
+- Shell scripting
+
+**📚 Learning Materials:**
+- Ballerina by Example: https://ballerina.io/learn/by-example/documentation/
+- WSO2 MI docs: https://mi.docs.wso2.com/en/latest/
+- Prompt engineering: https://www.promptingguide.ai/
+- RAG: https://www.freecodecamp.org/news/mastering-rag-from-scratch/
+
+**💪 Expected skills and technologies for the project:**
+- A foundational understanding of how LLMs work.
+- Familiarity with applied generative AI concepts and techniques.
+- Basic understanding of integration concepts.
+- Knowledge of WSO2 Synapse and Ballerina. (While not strictly required, prior experience will be highly beneficial.)
+- Experience with shell scripting.
+- Familiarity with API development and RESTful principles.
 
 ---
 
