@@ -20,6 +20,9 @@ Our mentors guide students throughout the GSoC program, helping them refine thei
 | **Isuru Samaranayake** | Ballerina, OpenEHR, FHIR |OpenEHR Specification Library in Ballerina | [isurus@wso2.com](mailto:isurus@wso2.com) |
 | **Pubudu Gunatilaka** | Natural Language Processing, API Management, Data Visualization |AI-Powered Analytics and Insights for WSO2 API Manager | [pubudug@wso2.com](mailto:pubudug@wso2.com) |
 | **Arshardh Ifthikar** | Natural Language Processing, API Management, Data Visualization |AI-Powered Analytics and Insights for WSO2 API Manager | [arshardh@wso2.com](mailto:arshardh@wso2.com) |
+| **Tharik Kanaka** | Ballerina, Java |Linter support for Ballerina | [tharik@wso2.com](mailto:tharik@wso2.com) |
+| **Gimantha Bandara** | Ballerina, Java |Linter support for Ballerina | [gimantha@wso2.com](mailto:gimantha@wso2.com) |
+| **Isuru Wijesiri** | Python, Gen AI, Ballerina, Integration |Autonomous AI Integration Engineer for WS2MI/Ballerina | [isuruwij@wso2.com](mailto:isuruwij@wso2.com) |
 
 ---
 
