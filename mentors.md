@@ -14,6 +14,12 @@ Our mentors guide students throughout the GSoC program, helping them refine thei
 | **Thilina Shashimal Senarath** | Identity and Access Management, Python, OIDC | OpenID Connect Client Initiated Backchannel Authentication (CIBA) SDK with Python | [thilinas@wso2.com](mailto:thilinas@wso2.com) |
 | **Rivindu Madushan** | Identity and Access Management, TypeScript, FAPI | Financial-Grade API (FAPI) SDK | [rivindu@wso2.com](mailto:rivindu@wso2.com) |
 | **Madhavi Gayathri** | Identity and Access Management, TypeScript, FAPI | Financial-Grade API (FAPI) SDK | [madhavig@wso2.com](mailto:madhavig@wso2.com) |
+| **Vimukthi Rajapaksha** | Identity and Access Management, OIDC, ReactJS |Improve OAuth2/OIDC SDK with OAuth2 Rich Authorization Requests specification | [vimukthir@wso2.com](mailto:vimukthir@wso2.com) |
+| **Lalaji Sureshika** | Identity and Access Management, OIDC, ReactJS |Improve OAuth2/OIDC SDK with OAuth2 Rich Authorization Requests specification | [lalaji@wso2.com](mailto:lalaji@wso2.com) |
+| **Sameera Gunarathne** | Ballerina, OpenEHR, FHIR |OpenEHR Specification Library in Ballerina | [sameerag@wso2.com](mailto:sameerag@wso2.com) |
+| **Isuru Samaranayake** | Ballerina, OpenEHR, FHIR |OpenEHR Specification Library in Ballerina | [isurus@wso2.com](mailto:isurus@wso2.com) |
+| **Pubudu Gunatilaka** | Natural Language Processing, API Management, Data Visualization |AI-Powered Analytics and Insights for WSO2 API Manager | [pubudug@wso2.com](mailto:pubudug@wso2.com) |
+| **Arshardh Ifthikar** | Natural Language Processing, API Management, Data Visualization |AI-Powered Analytics and Insights for WSO2 API Manager | [arshardh@wso2.com](mailto:arshardh@wso2.com) |
 
 ---
 
