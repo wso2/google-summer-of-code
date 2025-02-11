@@ -31,7 +31,7 @@ We do **not** tolerate:
 
 If you experience or witness any behavior that violates this Code of Conduct:  
 
-1. **Contact the repository maintainers** at `[your contact email]`.  
+1. **Contact the repository maintainers** at `discuss-oss@wso2.com`.  
 2. **Report the issue via GitHub Issues**, if appropriate.  
 3. **Respect confidentiality** – Reports will be handled **privately** and **fairly**.  
 
