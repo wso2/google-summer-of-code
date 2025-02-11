@@ -79,7 +79,7 @@ We welcome contributions from students, mentors, and open-source enthusiasts! He
 💬 Have questions? Join the conversation!  
 - Open a **GitHub Issue** for discussions  
 - Reach out to mentors listed in [mentors.md](./mentors.md)  
-- Follow our organization’s official channels  
+- Follow our organization’s official channels:  
     - Discord: https://discord.com/invite/wso2
     - X (Formerly Twitter): https://x.com/wso2
     - Facebook: https://www.facebook.com/OfficialWSO2/ 

@@ -4,7 +4,7 @@ Welcome to the **Google Summer of Code (GSoC) Project Ideas List** for **WSO2**!
 
 📌 **Before applying, students should:**  
 - Read the [official GSoC guidelines](https://google.github.io/gsocguides/student/) on selecting a project.  
-- Choose an idea that matches their skills and interests.  
+- Choose an idea that aligns with their skills and interests.  
 - Reach out to mentors for guidance before submitting a proposal.  
 
 ---
