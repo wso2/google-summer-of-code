@@ -1,6 +1,6 @@
 # 👨‍🏫 GSoC Mentors @ WSO2  
 
-Welcome to the **Google Summer of Code Mentors List** for **WSO2**! 🚀  
+Welcome to the **Google Summer of Code Mentor List** for **WSO2**! 🚀  
 
 Our mentors guide students throughout the GSoC program, helping them refine their proposals, understand project requirements, and contribute effectively to open source.  
 

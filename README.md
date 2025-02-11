@@ -64,7 +64,7 @@ We welcome contributions from students, mentors, and open-source enthusiasts! He
 
 📌 **Mentors:**  
 - Add new project ideas to the [Ideas List](./ideas-list.md). 
-- Update mentor availability in [mentors.md](./mentors.md).  
+- Update your availability in [mentors.md](./mentors.md).  
 
 📌 **General Contributions:**  
 - Fix typos, improve documentation, or add new resources. 
@@ -88,7 +88,7 @@ We welcome contributions from students, mentors, and open-source enthusiasts! He
 
 ## 📜 License  
 
-This repository is open-source under the **[Apache2.0 License](./LICENSE)**.  
+This repository is open-source under the **[Apache License 2.0](./LICENSE)**.
 
 ---
 

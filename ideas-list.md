@@ -30,7 +30,7 @@ The SDK will abstract the complexities of interfacing with identity providers (I
 
 Note that familiarity with the specification is not a prerequisite for the project.
 
-**🛠 Possible Technologies involved: :** 
+**🛠 Possible Technologies involved:** 
 - Python
 - OAuth/OIDC protocols
 - Identity and Access Management
@@ -40,7 +40,7 @@ Note that familiarity with the specification is not a prerequisite for the proje
 - https://ob.docs.wso2.com/en/latest/learn/ciba/	
 - https://ob.docs.wso2.com/en/latest/develop/mobile-application-for-ciba/ 
 
-**💪 Skills / Technologies expected for the project:**
+**💪 Expected skills and technologies for the project:**
 - Good understanding of Python programming language and its best practices. 
 - Understanding of CIBA specification
 - Understanding of WSO2 IS CIBA Flow
@@ -61,7 +61,7 @@ The SDK will simplify the implementation of OAuth 2.0 and OpenID Connect (OIDC) 
 While optimized for integration with WSO2 Identity Server (WSO2 IS), this SDK will be designed to work with any IdP that complies with the FAPI standard, allowing developers to build secure and scalable applications across different IAM ecosystems. By abstracting the complexities of FAPI-compliant authentication and authorization, the SDK will provide developers with a streamlined, easy-to-use solution for implementing high-assurance API security in their applications.
 Note that familiarity with the specification is not a prerequisite for the project.
 
-**🛠 Possible Technologies involved: :** 
+**🛠 Possible Technologies involved:** 
 - TypeScript
 - OAuth/OIDC protocols
 - Identity and Access Management
@@ -70,7 +70,7 @@ Note that familiarity with the specification is not a prerequisite for the proje
 - https://openid.net/wg/fapi/specifications/
 - https://is.docs.wso2.com/en/latest/references/financial-grade-api/
 
-**💪 Skills / Technologies expected for the project:**
+**💪 Expected skills and technologies for the project:**
 - Strong proficiency in the TypeScript programming language, along with best practices for scalable and maintainable development.
 - Ability to read and interpret the Financial-Grade API (FAPI) specifications, ensuring compliance with security and interoperability standards.
 
