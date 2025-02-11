@@ -21,9 +21,9 @@ To foster a **positive and inclusive** environment, we encourage:
 We do **not** tolerate:  
 
 🚫 **Harassment** – Any form of discrimination, abuse, or threats.  
-🚫 **Trolling & Personal Attacks** – Bullying, insults, or spreading negativity.  
-🚫 **Spam & Disruptive Behavior** – Unwanted promotion, excessive self-promotion, or repeated disruptions.  
-🚫 **Exclusionary Language** – Racist, sexist, homophobic, or otherwise discriminatory language.  
+🚫 **Trolling & personal attacks** – Bullying, insults, or spreading negativity.  
+🚫 **Spam & disruptive behavior** – Unwanted promotion, excessive self-promotion, or repeated disruptions.  
+🚫 **Exclusionary language** – Racist, sexist, homophobic, or otherwise discriminatory language.  
 
 ---
 
@@ -33,7 +33,7 @@ If you experience or witness any behavior that violates this Code of Conduct:
 
 1. **Contact the repository maintainers** at `discuss-oss@wso2.com`.  
 2. **Report the issue via GitHub Issues**, if appropriate.  
-3. **Respect confidentiality** – Reports will be handled **privately** and **fairly**.  
+All Reports will be handled **privately** and **fairly**.  
 
 ---
 
