@@ -23,7 +23,10 @@ Our mentors guide students throughout the GSoC program, helping them refine thei
 | **Tharik Kanaka** | Ballerina, Java |Linter support for Ballerina | [tharik@wso2.com](mailto:tharik@wso2.com) |
 | **Gimantha Bandara** | Ballerina, Java |Linter support for Ballerina | [gimantha@wso2.com](mailto:gimantha@wso2.com) |
 | **Isuru Wijesiri** | Python, Gen AI, Ballerina, Integration |Autonomous AI Integration Engineer for WS2MI/Ballerina | [isuruwij@wso2.com](mailto:isuruwij@wso2.com) |
-
+| **Anjana Supun** | Ballerina, Java |Templating Library for Ballerina | [anjanas@wso2.com](mailto:anjanas@wso2.com) |
+| **Chiran Sachintha** | Ballerina, Java |Templating Library for Ballerina | [chirans@wso2.com](mailto:chirans@wso2.com) |
+| **Asma Jabir** | Ballerina, Java |Ballerina CLI Support to Configure the Developer Environment | [asmaj@wso2.com](mailto:asmaj@wso2.com) |
+| **Sameera Jayasoma** | Ballerina, Java |Ballerina CLI Support to Configure the Developer Environment | [sameera@wso2.com](mailto:sameera@wso2.com) |
 ---
 
 ## 🎯 How to Contact a Mentor  
