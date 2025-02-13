@@ -22,7 +22,7 @@ Our mentors guide students throughout the GSoC program, helping them refine thei
 | **Arshardh Ifthikar** | Natural Language Processing, API Management, Data Visualization |AI-Powered Analytics and Insights for WSO2 API Manager | [arshardh@wso2.com](mailto:arshardh@wso2.com) |
 | **Tharik Kanaka** | Ballerina, Java |Linter support for Ballerina | [tharik@wso2.com](mailto:tharik@wso2.com) |
 | **Gimantha Bandara** | Ballerina, Java |Linter support for Ballerina | [gimantha@wso2.com](mailto:gimantha@wso2.com) |
-| **Isuru Wijesiri** | Python, Gen AI, Ballerina, Integration |Autonomous AI Integration Engineer for WS2MI/Ballerina | [isuruwij@wso2.com](mailto:isuruwij@wso2.com) |
+| **Isuru Wijesiri** | Python, Gen AI, Ballerina, Integration |Autonomous AI Integration Engineer for WSO2MI | [isuruwij@wso2.com](mailto:isuruwij@wso2.com) |
 | **Anjana Supun** | Ballerina, Java |Templating Library for Ballerina | [anjanas@wso2.com](mailto:anjanas@wso2.com) |
 | **Chiran Sachintha** | Ballerina, Java |Templating Library for Ballerina | [chirans@wso2.com](mailto:chirans@wso2.com) |
 | **Asma Jabir** | Ballerina, Java |Ballerina CLI Support to Configure the Developer Environment | [asmaj@wso2.com](mailto:asmaj@wso2.com) |
@@ -35,7 +35,7 @@ If you’re a student and want to reach out to a mentor:
 
 1. **Read the [Ideas List](./ideas-list.md)** and identify projects that interest you.  
 2. **Check the mentor's preferred contact method** in the table above.  
-3. **Prepare thoughtful questions** before reaching out. Avoid asking generic questions like *"Can you explain this project to me?"* – instead, show that you've done some research.  
+3. **Prepare thoughtful questions** before reaching out. Avoid asking generic questions like *"Can you explain this project to me?"* – Instead, show that you've done some research.  
 4. **Use GitHub Issues (if applicable)** to ask public questions so others can benefit.  
 
 ---
@@ -56,4 +56,4 @@ Interested in mentoring a GSoC project with **WSO2**? 🎉
 
 ## 📜 Code of Conduct  
 
-All mentors are expected to follow the **[Code of Conduct](./CODE_OF_CONDUCT.md)** to ensure a respectful and inclusive environment for all contributors.  
+All mentors must follow the **[Code of Conduct](./CODE_OF_CONDUCT.md)** to ensure a respectful and inclusive environment for all contributors.  
