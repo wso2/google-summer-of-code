@@ -222,39 +222,7 @@ Ballerina already has a built-in static code analysis tool and integration suppo
 
 ---
 
-### 🚀 7. **Autonomous AI Integration Engineer for WSO2 MI (Inspired by Devin)**
-
-**📅 Project Duration:** Long (~350 hours)  
-**🔥 Difficulty Level:** Hard  
-**👨‍🏫 Number of people:** 1  
-**👨‍🏫 Mentors:** Isuru Wijesiri (isuruwij@wso2.com)
-
-**📍 Description:**  
-This project aims to develop an open-source, autonomous AI Integration Engineer, drawing inspiration from Devin—the Autonomous AI Software Engineer. This intelligent agent will automate key tasks within the WSO2 Micro Integrator (WSO2 MI) ecosystem, significantly streamlining integration development. The agent will leverage the power of Large Language Models (LLMs) and related generative AI techniques to understand integration requirements, generate code, configure WSO2 MI, and iteratively deploy and test integrations until the task is completed.
-
-**🛠 Possible Technologies involved:** 
-- Python
-- Generative AI
-- Prompt Engineering / RAG / LLM Fine Tuning
-- WSO2 MI and WSO2 Synapse
-- Shell Scripting
-
-**📚 Learning Materials:**
-- [WSO2 MI Documentation](https://mi.docs.wso2.com/en/latest/)
-- [Prompt Engineering Guide](https://www.promptingguide.ai/)
-- [Mastering RAG](https://www.freecodecamp.org/news/mastering-rag-from-scratch/)
-
-**💪 Expected skills and technologies for the project:**
-- A foundational understanding of how LLMs work.
-- Familiarity with applied generative AI concepts and techniques.
-- Basic understanding of integration concepts.
-- Knowledge of WSO2 Synapse (or willingness to learn).
-- Experience with shell scripting.
-- Familiarity with API development and RESTful principles.
-
----
-
-### 🚀 8. **Templating Library for Ballerina**
+### 🚀 7. **Templating Library for Ballerina**
 
 **📅 Project Duration:** Long (~350 hours)  
 **🔥 Difficulty Level:** Medium  
@@ -280,7 +248,7 @@ This templating engine will enable developers to generate dynamic content by all
 
 ---
 
-### 🚀 9. **Ballerina CLI Support to Configure the Developer Environment**
+### 🚀 8. **Ballerina CLI Support to Configure the Developer Environment**
 
 **📅 Project Duration:** Short (~90 hours)  
 **🔥 Difficulty Level:** Easy  

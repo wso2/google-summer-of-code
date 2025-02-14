@@ -22,7 +22,6 @@ Our mentors guide students throughout the GSoC program, helping them refine thei
 | **Arshardh Ifthikar** | Natural Language Processing, API Management, Data Visualization |AI-Powered Analytics and Insights for WSO2 API Manager | [arshardh@wso2.com](mailto:arshardh@wso2.com) |
 | **Tharik Kanaka** | Ballerina, Java |Linter support for Ballerina | [tharik@wso2.com](mailto:tharik@wso2.com) |
 | **Gimantha Bandara** | Ballerina, Java |Linter support for Ballerina | [gimantha@wso2.com](mailto:gimantha@wso2.com) |
-| **Isuru Wijesiri** | Python, Gen AI, Ballerina, Integration |Autonomous AI Integration Engineer for WSO2MI | [isuruwij@wso2.com](mailto:isuruwij@wso2.com) |
 | **Anjana Supun** | Ballerina, Java |Templating Library for Ballerina | [anjanas@wso2.com](mailto:anjanas@wso2.com) |
 | **Chiran Sachintha** | Ballerina, Java |Templating Library for Ballerina | [chirans@wso2.com](mailto:chirans@wso2.com) |
 | **Asma Jabir** | Ballerina, Java |Ballerina CLI Support to Configure the Developer Environment | [asmaj@wso2.com](mailto:asmaj@wso2.com) |
